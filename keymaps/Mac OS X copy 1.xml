@@ -19,6 +19,10 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -28,9 +32,14 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
