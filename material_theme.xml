@@ -2,5 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.3" />
     <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="tabsHeight" value="50" />
   </component>
 </application>
