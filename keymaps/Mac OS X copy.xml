@@ -1,6 +1,0 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="EmmetEverywhere">
-    <keyboard-shortcut first-keystroke="alt tab" />
-  </action>
-  <action id="NextSplitter" />
-</keymap>
