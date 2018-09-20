@@ -1,6 +1,10 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Diff.FocusOppositePane" />
   <action id="EmmetEverywhere">
-    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="NextSplitter" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
 </keymap>
