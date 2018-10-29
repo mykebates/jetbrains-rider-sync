@@ -22,6 +22,7 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="bigger.font.in.project.view" value="true" />
-    <entry key="ide.mac.file.chooser.native" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
   </component>
 </application>
