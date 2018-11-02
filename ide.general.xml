@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
@@ -22,7 +23,5 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="bigger.font.in.project.view" value="true" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
   </component>
 </application>
