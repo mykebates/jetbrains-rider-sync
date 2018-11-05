@@ -23,7 +23,6 @@
   <action id="EmmetEverywhere">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="tab" second-keystroke="tab" />
   </action>
   <action id="ExpandLiveTemplateByTab" />
   <action id="FileChooser.TogglePathShowing" />
