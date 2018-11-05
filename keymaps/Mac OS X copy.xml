@@ -4,6 +4,9 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.FocusOppositePane" />
   <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorIndentSelection" />
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta down" />
